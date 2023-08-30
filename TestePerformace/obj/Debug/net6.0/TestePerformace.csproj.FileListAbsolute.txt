@@ -1,0 +1,15 @@
+D:\TestePerformace\bin\Debug\net6.0\TestePerformace.exe
+D:\TestePerformace\bin\Debug\net6.0\TestePerformace.deps.json
+D:\TestePerformace\bin\Debug\net6.0\TestePerformace.runtimeconfig.json
+D:\TestePerformace\bin\Debug\net6.0\TestePerformace.dll
+D:\TestePerformace\bin\Debug\net6.0\TestePerformace.pdb
+D:\TestePerformace\obj\Debug\net6.0\TestePerformace.csproj.AssemblyReference.cache
+D:\TestePerformace\obj\Debug\net6.0\TestePerformace.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestePerformace\obj\Debug\net6.0\TestePerformace.AssemblyInfoInputs.cache
+D:\TestePerformace\obj\Debug\net6.0\TestePerformace.AssemblyInfo.cs
+D:\TestePerformace\obj\Debug\net6.0\TestePerformace.csproj.CoreCompileInputs.cache
+D:\TestePerformace\obj\Debug\net6.0\TestePerformace.dll
+D:\TestePerformace\obj\Debug\net6.0\refint\TestePerformace.dll
+D:\TestePerformace\obj\Debug\net6.0\TestePerformace.pdb
+D:\TestePerformace\obj\Debug\net6.0\TestePerformace.genruntimeconfig.cache
+D:\TestePerformace\obj\Debug\net6.0\ref\TestePerformace.dll
